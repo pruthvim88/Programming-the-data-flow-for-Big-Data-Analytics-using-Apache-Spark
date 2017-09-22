@@ -5,15 +5,6 @@ Note
 - We are using python 3 to run the pyspark on VM. Add "export PYSPARK_PYTHON=python3" to .bashrc file on VM
 - All the Inputs required for running the files and and corresponding outputs are present in the folders placed in each activity in the zip file submitted.
 
-Task 1
-----------
-titanic.csv is the input for WelcomeToSparkWithPython.py
-Input path is hardcoded as: /home/hadoop/sparkinput/titanic.csv
-
-WelcomeOutput.txt is the MR output
-Input path is hardcoded as: /home/hadoop/sparkoutput/WelcomeOutput.txt
-
-The obtained output accuracies are the same as those from Spark notebook 
 
 Featured Activity
 --------------
